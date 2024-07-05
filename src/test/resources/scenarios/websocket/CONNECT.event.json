@@ -1,0 +1,64 @@
+{
+  "headers": {
+    "Host": "awsApiId.execute-api.sa-east-1.amazonaws.com",
+    "Sec-WebSocket-Extensions": "permessage-deflate; client_max_window_bits",
+    "Sec-WebSocket-Key": "XZNs/n+ZdEGFZt1QE9UtBg==",
+    "Sec-WebSocket-Protocol": "ALLOW",
+    "Sec-WebSocket-Version": "13",
+    "X-Amzn-Trace-Id": "Root=1-6685fcf5-068041f22b6b50590b773457",
+    "X-Forwarded-For": "127.0.0.1",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "multiValueHeaders": {
+    "Host": [
+      "awsApiId.execute-api.sa-east-1.amazonaws.com"
+    ],
+    "Sec-WebSocket-Extensions": [
+      "permessage-deflate; client_max_window_bits"
+    ],
+    "Sec-WebSocket-Key": [
+      "XZNs/n+ZdEGFZt1QE9UtBg=="
+    ],
+    "Sec-WebSocket-Protocol": [
+      "ALLOW"
+    ],
+    "Sec-WebSocket-Version": [
+      "13"
+    ],
+    "X-Amzn-Trace-Id": [
+      "Root=1-6685fcf5-068041f22b6b50590b773457"
+    ],
+    "X-Forwarded-For": [
+      "127.0.0.1"
+    ],
+    "X-Forwarded-Port": [
+      "443"
+    ],
+    "X-Forwarded-Proto": [
+      "https"
+    ]
+  },
+  "requestContext": {
+    "stage": "Develop",
+    "requestId": "aXR2cFAAGjQFtig=",
+    "identity": {
+      "sourceIp": "127.0.0.1"
+    },
+    "authorizer": {
+      "principalId": "ALLOW",
+      "integrationLatency": 1058
+    },
+    "apiId": "awsApiId",
+    "connectedAt": 1720057077724,
+    "connectionId": "aXR2ceVJGjQCFkg=",
+    "domainName": "awsApiId.execute-api.sa-east-1.amazonaws.com",
+    "eventType": "CONNECT",
+    "extendedRequestId": "aXR2cFAAGjQFtig=",
+    "messageDirection": "IN",
+    "requestTime": "04/Jul/2024:01:37:57 +0000",
+    "requestTimeEpoch": 1720057077726,
+    "routeKey": "$connect"
+  },
+  "isBase64Encoded": false
+}

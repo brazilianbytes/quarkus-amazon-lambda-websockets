@@ -1,0 +1,27 @@
+{
+  "type": "REQUEST",
+  "headers": {
+    "Connection": "upgrade",
+    "content-length": "0",
+    "Host": "awsApiId.execute-api.sa-east-1.amazonaws.com",
+    "Sec-WebSocket-Extensions": "permessage-deflate; client_max_window_bits",
+    "Sec-WebSocket-Key": "MBsI8WULcUEkboMvY+In1g==",
+    "Sec-WebSocket-Protocol": "ALLOW",
+    "Sec-WebSocket-Version": "13",
+    "Upgrade": "websocket",
+    "X-Amzn-Trace-Id": "Root=1-668488ce-497d24d423d9c7047eb1b580",
+    "X-Forwarded-For": "127.0.0.1",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "queryStringParameters": {},
+  "requestContext": {
+    "apiId": "awsApiId",
+    "domainName": "awsApiId.execute-api.sa-east-1.amazonaws.com",
+    "requestId": "aTpQTGUXmjQFaoQ=",
+    "routeKey": "$connect",
+    "stage": "Develop",
+    "timeEpoch": 0
+  },
+  "stageVariables": {}
+}

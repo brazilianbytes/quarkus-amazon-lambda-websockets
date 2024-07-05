@@ -1,0 +1,25 @@
+{
+  "requestContext": {
+    "stage": "Develop",
+    "requestId": "aXR3EFx6GjQFfsw=",
+    "identity": {
+      "sourceIp": "127.0.0.1"
+    },
+    "authorizer": {
+      "principalId": "ALLOW"
+    },
+    "apiId": "awsApiId",
+    "connectedAt": 1720057077724,
+    "connectionId": "aXR2ceVJGjQCFkg=",
+    "domainName": "awsApiId.execute-api.sa-east-1.amazonaws.com",
+    "eventType": "MESSAGE",
+    "extendedRequestId": "aXR3EFx6GjQFfsw=",
+    "messageDirection": "IN",
+    "messageId": "aXR3EeVPmjQCFkg=",
+    "requestTime": "04/Jul/2024:01:38:01 +0000",
+    "requestTimeEpoch": 1720057081792,
+    "routeKey": "$default"
+  },
+  "body": "{ \"message\": \"whatever\" }",
+  "isBase64Encoded": false
+}
