@@ -1,8 +1,8 @@
 version = 0.1
 [default.deploy.parameters]
-stack_name = "dav-backend-ws-luciana"
+stack_name = "quarkus-amazon-lambda-websockets"
 resolve_s3 = true
-s3_prefix = "dav-backend-ws-luciana"
+s3_prefix = "quarkus-amazon-lambda-websockets"
 region = "sa-east-1"
 capabilities = "CAPABILITY_IAM"
 image_repositories = []
