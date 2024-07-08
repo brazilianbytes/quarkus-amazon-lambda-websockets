@@ -5,7 +5,7 @@ import java.nio.file.Path;
 import java.util.Objects;
 
 public class TestUtil {
-  static String readJSON(String resource) {
+  public static String readJSON(String resource) {
     String json = "{}";
     try {
       json = Files
